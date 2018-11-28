@@ -2,8 +2,10 @@
  * Created by yilh on 2017/2/18.
  */
 
-
+ 
 /**
+ * git练习
+ * 
  * 获取窗体鼠标坐标（X、Y）
  * active       当前图片
  * area         当前图片选中区域
